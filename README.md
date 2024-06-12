@@ -11,8 +11,8 @@ These save files come with full inventories of all trinkets, a collection of eve
 
 
 * [Features](#features)
-    * [Who Should Use These?](#who-should-use-these?)
-    * [Who Shouldn't use these?](#who-shouldn't-use-these?)
+    * [Who Should Use These?](#who-should-use-these)
+    * [Who Shouldn't use these?](#who-shouldnt-use-these)
 * [Installation](#installation)
     * [Steam](#steam)
     * [Game Pass](#game-pass)

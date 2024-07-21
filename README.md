@@ -2,7 +2,7 @@
 
 ## Description 
 
-Enjoy Deathloop, but hate having to track down trinkets or search for that one gun you're not sure you have? Having fun speedrunning the patched game, but wish you didn't have to spend so long fiddling with Egor's code? 
+Enjoy Deathloop, but hate having to track down trinkets or search for that one gun you're not sure you have? Having fun speedrunning the patched game, but wish you didn't have to spend so long fiddling with Egor's code? Want to play through the main game again, but hate the idea of having to painstaking recollect all your gear?
 
 These save files come with full inventories of all trinkets, a collection of every exemplar weapon with every possible perk in the game, and an easy-to-spin code for Egor's machine. 
 
@@ -39,27 +39,31 @@ Every save file has the same features and codes—except for the tutorial save f
 
 What this collection of save files doesn't include:
 
-* A collection of each weapon with a give perk in both possible skins of that weapon
+* A collection of each weapon with a given perk in both possible skins of that weapon
 * Non-Exemplar weapons
 * Exclusive premium weapon skins
 * Exclusive premium Colt/Julianna Skins
-* In the mostly unfinished save, several early Julianna conversations are already complete, and all passwords to the RAK have been acquired—I avoided what I could but some interactions are necessary to collect all the guns and trinkets
 * Save files from the unpatched pre-GoldenLoop version of the game (sorry speedrunners!)
-
+* A completely fresh Colt game with a full inventory—simply put, in order to fill out the inventory for the mid-game save, some story progression is required:
+    * Several early Julianna conversations are already complete
+    * All passwords to the RAK have been acquired (though no other documents)
+    * The code to the fireworks container has been discovered
+    * Colt is on good terms with 2-Bit
+    * Wenjie gets invited to the party every evening
 
 ### Who Should Use These?
 
 * People who have played Deathloop, and want a conveniently organized and complete version of their inventory
 * People who have broken the loop, but don't want to have to engage with the online mode to access the extra Colt skins
-* People that enjoy having all of their infused gear, but want to revisit one-time missions,like hacking 2-bit, without having to do without their stuff
+* People that enjoy having all of their infused gear, but want to revisit one-time missions,like hacking 2-bit, without having to recollect their gear
 * People that enjoyed leveling up their Julianna's Hunter Rank and want to repeat the process without having to play the Colt side of the game all over again
 * Speedrunners who want to break the loop glitchless, and enjoy having a guaranteed good code for Egor's machine
 
 ### Who Shouldn't Use These?
 
 * People who have organized their own inventories just how they like them
-* People with exclusive premium items and skins; I have no idea if these will be retained when using these save files and it's entirely likely that such exclusive content may be inaccessible with these saves
-* Anyone who doesn't know how to make use of these save files for their particular platform; console players in particular may simply be unable to use these files at all, due to the closed nature of their filesystems
+* People with exclusive premium items and skins; I have no idea if these will be retained when using these save files, and (if it matters to you) the aesthetics of the weapon sorting won't take into account these premium items
+* Anyone who doesn't know how to make use of these save files for their particular platform; console players in particular are probably unable to use these files at all, due to the closed nature of their filesystems
 
 
 ## Installation
@@ -119,7 +123,7 @@ Although the guide suggests copying over the files `title.data` and `steam_autoc
 
 Contributions to this repository, like interesting save files you want to share, are welcome. 
 
-Want to add instructions for using this save file on other platforms? Have a code even better than A220? Like your collection of guns better, and think others will too?
+Want to add instructions for using this save file on other platforms? Have a code even better than A220? Think a reference file of every code in this savegame would be useful? Like your collection of guns better, and think others will too? 
 
 Submit a pull request!
 

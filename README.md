@@ -4,7 +4,7 @@
 
 Enjoy Deathloop, but hate having to track down trinkets or search for that one gun you're not sure you have? Having fun speedrunning the patched game, but wish you didn't have to spend so long fiddling with Egor's code? Want to play through the main game again, but hate the idea of having to painstaking recollect all your gear?
 
-These save files come with full inventories of all trinkets, a collection of every exemplar weapon with every possible perk in the game, and an easy-to-spin code for Egor's machine. 
+These save files come with full inventories of all trinkets, a collection of every weapon with every possible perk in the game, and an easy-to-spin code for Egor's machine. 
 
 
 ## Table of Contents
@@ -13,6 +13,7 @@ These save files come with full inventories of all trinkets, a collection of eve
 * [Features](#features)
     * [Who Should Use These?](#who-should-use-these)
     * [Who Shouldn't use these?](#who-shouldnt-use-these)
+* [Additional Details](#additional-details)
 * [Installation](#installation)
     * [Steam](#steam)
     * [Game Pass](#game-pass)
@@ -21,32 +22,35 @@ These save files come with full inventories of all trinkets, a collection of eve
 
 ## Features
 
-There are three sets of save files in this repo: a fresh save that starts you at the tutorial, a save post tutorial with most of the game unfinished, and a save with every document read and lead followed, but without having actually broken the loop.
+There are three sets of save files in this repo:
 
-Each save comes in two flavors: a new invasion mode with no unlocks, and a max rank Julianna (though one without every unlocked feat). 
+* New Game: Starts you at the opening cutscene
+* Mid Game: Starts you after the tutorial with most of the game undiscovered
+* End Game: Starts you after everything has been discovered, completed, and read, but before the first time you break the loop. 
 
-If you want your save file to have a win/loss ratio that's 100% yours, you can. And if you prefer to start with everything unlocked, including the Colt skins, that's an option too.
+Each set of save games includes a fresh invasion mode, a Julianna without any matches but which includes favorable starting gear, and a max rank Julianna with every feat (except Double Vision and You Lose Some) unlocked. Unfortunately, the Double Vision feat for Julianna is bugged and apparently unobtainable. 
 
-Every save file has the same features and codes—except for the tutorial save file which obviously starts you with a Colt lacking any infused weapons, trinkets, or slabs. These features include:
+Additionally, the saves have the following features on Colt:
 
 * The easy-to-spin code `A220` for Egor's machine
 * Every personal and weapon trinket in the game, including the elusive Vampire trinket
-* Trinkets are sorted—all trinkets of the same name are next to each other when equipping trinkets, and personal trinkets are loosely organized by category.
-* An organized collection of every exemplar weapon in the game
+* An organized collection of every weapon in the game
 * Duplicates of most one-handed weapons for dual-wielding
 * Rare weapon skins
 * A couple of weapons with perks given only to Julianna—they aren't found on Blackreef
+* Fully sorted trinket and weapon inventories
+* And the collection of mid game save files includes intermediary saves between an 
+inventory with just slabs to the full collection
 
 What this collection of save files doesn't include:
 
 * A collection of each weapon with a given perk in both possible skins of that weapon
-* Non-Exemplar weapons
 * Exclusive premium weapon skins
 * Exclusive premium Colt/Julianna Skins
 * Save files from the unpatched pre-GoldenLoop version of the game (sorry speedrunners!)
-* A completely fresh Colt game with a full inventory—simply put, in order to fill out the inventory for the mid-game save, some story progression is required:
-    * Several early Julianna conversations are already complete
-    * All passwords to the RAK have been acquired (though no other documents)
+* A completely fresh Colt game with a full inventory—simply put, in order to acquire all personal trinkets, some story progression is required:
+    * Most early Julianna conversations are already complete (this applies to all mid game saves)
+    * All passwords to the RAK have been acquired, (though no other documents)
     * The code to the fireworks container has been discovered
     * Colt is on good terms with 2-Bit
     * Wenjie gets invited to the party every evening
@@ -61,16 +65,25 @@ What this collection of save files doesn't include:
 
 ### Who Shouldn't Use These?
 
+* People who haven't yet broken the loop—the mid game and end game saves skip over story, dialogue, and gameplay experience and should be set aside until you've played through the game on your own
 * People who have organized their own inventories just how they like them
 * People with exclusive premium items and skins; I have no idea if these will be retained when using these save files, and (if it matters to you) the aesthetics of the weapon sorting won't take into account these premium items
+* People who want to achievement hunt—I don't know how these save files might interact with Steam's achievment tracker
 * Anyone who doesn't know how to make use of these save files for their particular platform; console players in particular are probably unable to use these files at all, due to the closed nature of their filesystems
 
+## Additional Details
+
+If you want your save file to have a win/loss ratio that's 100% yours, you can. And if you prefer to start with everything unlocked, including Colt's skins, that's an option too. 
+
+I included a Julianna pre-cutscene because I like to have the option to reroll the dice on the opening gear, and figure maybe others would too.
+
+A completely fresh Colt game with a full inventory—simply put, in order to acquire all personal trinkets, some story progression is required:
 
 ## Installation
 
-In this case, installation refers to the process of downloading these files and using them to replace your existing Deathloop save file. This is easiest on Steam, but is also possible for Game Pass players.
+Installation refers to the process of downloading these files and using them to replace your existing Deathloop save file. This is easiest on Steam, but is also possible for Game Pass players.
 
-While it may be possible to use these save files on other platforms, I don't know how. Also, it may not be possible. 
+While it may be possible to use these save files on other platforms, I don't know how. It also may not be possible. 
 
 Regardless of what platform you're on, installation always starts with downloading this repository, or the specific folder you want to use. 
 
@@ -123,8 +136,14 @@ Although the guide suggests copying over the files `title.data` and `steam_autoc
 
 Contributions to this repository, like interesting save files you want to share, are welcome. 
 
-Want to add instructions for using this save file on other platforms? Have a code even better than A220? Think a reference file of every code in this savegame would be useful? Like your collection of guns better, and think others will too? 
+Some potential ideas:
 
-Submit a pull request!
+* Adding instructions for using these save files on other platforms
+* Adding a save file with a better code than A220
+* Your own collection of guns, ordered in the way you like
+* A version of the end game save files that has the various logs and notes unlocked in an organized order
+* A reference document of every code in this version of the game
+
+If you feel motivated and want to contribute, submit a pull request!
 
 --- 

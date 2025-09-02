@@ -73,7 +73,7 @@ What this collection of save files doesn't include:
 
 ## Additional Details
 
-If you want your save file to have a win/loss ratio that's 100% yours, you can. And if you prefer to start with everything unlocked, including Colt's skins, that's an option too. 
+For multiplayer, if you want your save file to have a win/loss ratio that's 100% yours, you can. And if you prefer to start with everything unlocked, including Colt's skins, that's an option too. 
 
 I included a Julianna pre-cutscene because I like to have the option to reroll the dice on the opening gear, and figure maybe others would too.
 

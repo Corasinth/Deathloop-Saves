@@ -73,11 +73,9 @@ What this collection of save files doesn't include:
 
 ## Additional Details
 
-If you want your save file to have a win/loss ratio that's 100% yours, you can. And if you prefer to start with everything unlocked, including Colt's skins, that's an option too. 
+For multiplayer, if you want your save file to have a win/loss ratio that's 100% yours, you can. And if you prefer to start with everything unlocked, including Colt's skins, that's an option too. 
 
 I included a Julianna pre-cutscene because I like to have the option to reroll the dice on the opening gear, and figure maybe others would too.
-
-A completely fresh Colt game with a full inventory—simply put, in order to acquire all personal trinkets, some story progression is required:
 
 ## Installation
 
@@ -141,7 +139,6 @@ Some potential ideas:
 * Adding instructions for using these save files on other platforms
 * Adding a save file with a better code than A220
 * Your own collection of guns, ordered in the way you like
-* A version of the end game save files that has the various logs and notes unlocked in an organized order
 * A reference document of every code in this version of the game
 
 If you feel motivated and want to contribute, submit a pull request!
